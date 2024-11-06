@@ -2,6 +2,12 @@
 
 RentACar API is a multi-layered ASP.NET Core Web API project designed for an online rent-a-car platform. The application supports essential functionalities like user authentication, car rental management, and payment processing, all structured with a focus on maintainability and scalability. The project follows a layered architecture, leveraging Entity Framework Code First for database interactions and includes secure practices like JWT authentication and password encryption.
 
+![image](https://github.com/user-attachments/assets/31ff6951-344d-4213-95f8-ffa0fe68bfe7)
+
+
+![image](https://github.com/user-attachments/assets/27bb9507-b342-42ab-971d-005d6421526c)
+
+
 ## Project Structure
 
 The project is organized into three primary layers:
