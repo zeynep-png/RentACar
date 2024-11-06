@@ -52,7 +52,7 @@ The project is organized into three primary layers:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rentacar-api.git
+   git clone https://github.com/zeynep-png/RentACar.git
    ```
 2. Navigate to the project directory:
    ```bash
